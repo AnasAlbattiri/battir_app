@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">battir shop</string>
+    <string name="facebook_app_id">669245148212443</string>
+    <string name="fb_login_protocol_scheme">fb669245148212443</string>
+    <string name="facebook_client_token">56789</string>
+</resources>

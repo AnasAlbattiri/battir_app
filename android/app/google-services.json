@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335032311262",
+    "project_id": "battir-shop",
+    "storage_bucket": "battir-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335032311262:android:872ea74cf483ecdbaa114f",
+        "android_client_info": {
+          "package_name": "at.albattiri.battir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335032311262-qeankfhqt9ad2us9n8ggb4i864l4qmj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWf5pinckVwavTYsa5ickhm18TwHql1ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335032311262-qeankfhqt9ad2us9n8ggb4i864l4qmj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
